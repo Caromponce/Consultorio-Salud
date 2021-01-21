@@ -1,0 +1,13 @@
+nav {
+  background: #6ce8ff;
+  background: linear-gradient(90deg, #6ce8ff 14%, #2fd9d4 64%, #1ad4c5 87%);
+  height: 110px; }
+
+.navbar-light .navbar-brand {
+  color: white;
+  font-size: 2rem; }
+
+.home {
+  background-color: aquamarine;
+  margin-top: 60px;
+  padding: 10% 5%; }
